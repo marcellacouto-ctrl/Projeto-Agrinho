@@ -3,7 +3,7 @@
 ## 📝 Tema: Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 ### 👥 Integrantes da Equipe
-* **Estudante 1:** Marcella da Silva COuto
+* **Estudante 1:** Marcella da Silva Couto
 * **Estudante 2:** Luana Giusti de Melo
 * **Professor(a) Orientador(a):** Bianca
 ---
